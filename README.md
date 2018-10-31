@@ -1,1 +1,1 @@
-# assignment
+# sample code for python proficiency
