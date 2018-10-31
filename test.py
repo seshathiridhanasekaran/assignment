@@ -1,5 +1,4 @@
 '''
-Using a programming language of your choice, implement the following:
 1. Accept the number of labels and their distribution from the user, generate a synthetic dataset of
 10,000 labels.
 example: number of labels: 3
